@@ -1,5 +1,7 @@
-# TheOatmeal Reactions
+# The Oatmeal Reactions
 
-Replaces Facebook Reactions with TheOatmeal pictures.
+Replaces Facebook Reactions with The Oatmeal pictures.
 
-Inspired by https://github.com/FGrante/trump-reactions using TheOatmeal reactions from http://theoatmeal.com/comics/facebook_reactions.
+Inspired by https://github.com/FGrante/trump-reactions using The Oatmeal reactions from http://theoatmeal.com/comics/facebook_reactions.
+
+

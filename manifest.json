@@ -4,8 +4,7 @@
   "version": "0.0.1",
   "manifest_version": 2,
   "description": "Replaces Facebook Reactions with TheOatmeal pictures.",
-  "homepage_url": "https://francoisgrante.com",
-  "default_locale": "en",
+  "homepage_url": "http://students.washington.edu/parsis/portfolio/",
   "icons": {
     "16": "img/icon16.png",
     "48": "img/icon48.png",
