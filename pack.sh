@@ -1,1 +1,1 @@
-zip oatmeal-reactions manifest.json 
+zip oatmeal-reactions manifest.json content_script/* img/*
