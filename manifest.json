@@ -1,7 +1,7 @@
 {
   "name": "The Oatmeal Reactions for Facebook",
   "short_name": "The Oatmeal Reactions",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "manifest_version": 2,
   "description": "Replaces Facebook Reactions with The Oatmeal pictures.",
   "homepage_url": "http://students.washington.edu/parsis/portfolio/",

@@ -13,3 +13,11 @@
 .x2 ._2p7a {
 	background-image:url("chrome-extension://__MSG_@@extension_id__/img/small-reactions@2x.png") !important;
 }
+
+._2p79 {
+	background-image:url("chrome-extension://__MSG_@@extension_id__/img/small-reactions.png") !important;
+}
+
+.x2 ._2p79 {
+	background-image:url("chrome-extension://__MSG_@@extension_id__/img/small-reactions@2x.png") !important;
+}
